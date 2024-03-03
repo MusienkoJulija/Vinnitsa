@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Vinnitsa/static/css/main.04097f40.css",
-    "main.js": "/Vinnitsa/static/js/main.716e8411.js",
+    "main.js": "/Vinnitsa/static/js/main.6898fa14.js",
     "index.html": "/Vinnitsa/index.html",
     "main.04097f40.css.map": "/Vinnitsa/static/css/main.04097f40.css.map",
-    "main.716e8411.js.map": "/Vinnitsa/static/js/main.716e8411.js.map"
+    "main.6898fa14.js.map": "/Vinnitsa/static/js/main.6898fa14.js.map"
   },
   "entrypoints": [
     "static/css/main.04097f40.css",
-    "static/js/main.716e8411.js"
+    "static/js/main.6898fa14.js"
   ]
 }
